@@ -42,7 +42,7 @@ function formatData(data){
     }
   });  
   //return syllabelsArr; 
-} 
+}
 
 
 
